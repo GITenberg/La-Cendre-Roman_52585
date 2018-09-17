@@ -1,5 +1,8 @@
 _repo: La-Cendre-Roman_52585
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52585-h/images/illus_cover.jpg
 creator:
   author:
     agent_name: Vandérem, Fernand
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '42659'
     url: http://www.gutenberg.org/2009/agents/42659
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52585#La-Cendre-Roman
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2016-07-16'
 gutenberg_type: Text
